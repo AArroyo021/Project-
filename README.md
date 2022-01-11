@@ -17,6 +17,7 @@ A reimbursement website where employees can create new reimbursement requests an
 * Create Reimbursement Requests
 * View your Accepted/Denied Reimbursement Requests
 ### Managers
+* Login/Logout
 * Accept/Deny Reimbursements
 * View Past Accepted/Denied Reimbursements
 *  View Statistics on Reimbursement amounts and money amount
